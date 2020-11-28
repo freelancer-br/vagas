@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="230" src="./imgs/margot.png">
+</p>
 
 # Vagas
 
